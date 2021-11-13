@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Carhabti">
         <activity
+            android:name=".LoginSignUpActivity"
+            android:exported="true" />
+        <activity
             android:name=".SplashActivity"
             android:exported="true"
             android:theme="@style/SplashTheme">
@@ -21,8 +24,7 @@
         </activity>
         <activity
             android:name=".MainActivity"
-            android:exported="true">
-        </activity>
+            android:exported="true"></activity>
     </application>
 
 </manifest>
