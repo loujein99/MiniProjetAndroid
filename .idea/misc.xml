@@ -3,16 +3,27 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/CarhabtiMAJ/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3880208333333333" />
+        <entry key="..\:/CarhabtiMAJ/app/src/main/res/drawable/btn_top.xml" value="0.2462962962962963" />
         <entry key="..\:/CarhabtiMAJ/app/src/main/res/drawable/gradient.xml" value="0.3921875" />
+        <entry key="..\:/CarhabtiMAJ/app/src/main/res/drawable/ic_email.xml" value="0.3880208333333333" />
+        <entry key="..\:/CarhabtiMAJ/app/src/main/res/drawable/ic_lock.xml" value="0.3880208333333333" />
+        <entry key="..\:/CarhabtiMAJ/app/src/main/res/drawable/ic_login_bg.xml" value="0.3880208333333333" />
+        <entry key="..\:/CarhabtiMAJ/app/src/main/res/drawable/ic_person.xml" value="0.3880208333333333" />
+        <entry key="..\:/CarhabtiMAJ/app/src/main/res/drawable/ic_register_bg.xml" value="0.37222222222222223" />
         <entry key="..\:/CarhabtiMAJ/app/src/main/res/drawable/ic_right.xml" value="0.27685185185185185" />
         <entry key="..\:/CarhabtiMAJ/app/src/main/res/drawable/icon_background.xml" value="0.27685185185185185" />
         <entry key="..\:/CarhabtiMAJ/app/src/main/res/drawable/icon_outer_background.xml" value="0.27685185185185185" />
         <entry key="..\:/CarhabtiMAJ/app/src/main/res/drawable/indicator_active_background.xml" value="0.2230769230769231" />
         <entry key="..\:/CarhabtiMAJ/app/src/main/res/drawable/indicator_inactive_backgrounf.xml" value="0.2230769230769231" />
+        <entry key="..\:/CarhabtiMAJ/app/src/main/res/drawable/login_btn_bg.xml" value="0.3880208333333333" />
         <entry key="..\:/CarhabtiMAJ/app/src/main/res/drawable/splash_background.xml" value="0.25" />
         <entry key="..\:/CarhabtiMAJ/app/src/main/res/drawable/view_pager_background.xml" value="0.23055555555555557" />
+        <entry key="..\:/CarhabtiMAJ/app/src/main/res/layout/activity_login.xml" value="0.33" />
         <entry key="..\:/CarhabtiMAJ/app/src/main/res/layout/activity_login_sign_up.xml" value="0.1" />
         <entry key="..\:/CarhabtiMAJ/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/CarhabtiMAJ/app/src/main/res/layout/activity_profil.xml" value="0.371875" />
+        <entry key="..\:/CarhabtiMAJ/app/src/main/res/layout/activity_register.xml" value="0.33" />
         <entry key="..\:/CarhabtiMAJ/app/src/main/res/layout/activity_splash.xml" value="0.33" />
         <entry key="..\:/CarhabtiMAJ/app/src/main/res/layout/onboarding_item_constainer.xml" value="0.1" />
       </map>

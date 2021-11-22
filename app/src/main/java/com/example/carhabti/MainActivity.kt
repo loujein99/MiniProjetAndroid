@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
                 ),
                 OnboardingItem(
                     R.drawable.reminder,
-                    title = "be reminded",
+                    title = "Be reminded",
                     description = "Schedule reminders and we will not let you forget of maintenance and payments"
                 ),
                 OnboardingItem(
@@ -118,7 +118,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun navigateToLogSignActivity(){
-        startActivity(Intent(applicationContext,LoginSignUpActivity::class.java))
+        startActivity(Intent(applicationContext,LoginActivity::class.java))
         finish()
     }
 
